@@ -1,1 +1,1 @@
-This is a c variable project
+This is a c variables project
