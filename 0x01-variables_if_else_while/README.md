@@ -1,1 +1,1 @@
-This is a ptoject
+This is a project
