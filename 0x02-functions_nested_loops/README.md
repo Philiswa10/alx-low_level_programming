@@ -1,1 +1,1 @@
-This is a c function project
+This is a project
