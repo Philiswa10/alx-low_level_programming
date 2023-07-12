@@ -1,1 +1,1 @@
-This is a mallo project
+This is a malloc project
